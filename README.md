@@ -37,7 +37,7 @@ ________________________________________
 
 ### [Atualização]
 
-🏆 O projeto Code Arena ficou no Top 3 do concurso de projetos.
+🏆 O projeto Code Arena ficou no Top 3 do concurso de projetos DevClub.
 
 Foi uma experiência muito importante pra mim, principalmente por competir em uma categoria acima que eu imaginava inicialmente.
 
