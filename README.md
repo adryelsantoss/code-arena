@@ -35,6 +35,15 @@ ________________________________________
 
 ## 📌 Sobre o Projeto
 
+### [Atualização]
+
+🏆 O projeto Code Arena ficou no Top 3 do concurso de projetos.
+
+Foi uma experiência muito importante pra mim, principalmente por competir em uma categoria acima que eu imaginava inicialmente.
+
+Além do resultado, o maior ganho foi todo o aprendizado durante o desenvolvimento do projeto, principalmente em animações, responsividade e experiência do usuário.
+
+---
 Esse projeto foi desenvolvido com o objetivo de praticar:
 
 - Criação de interfaces modernas  
